@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[jd][jj][jg][mg][mj][pj][pg][rd][qe][pc][re][ob][sc][pd]AW[qc][qd]
+[rc][pb][qa][sb]LB[sd:A][rb:B]C[白棋到黑棋家捣乱，下一步你选A还是B]AP[MultiGo:4.4.4]
+SZ[19]AB[md]MULTIGOGM[1]
+
+(;B[rb];W[sd];B[ra]C[RIGHT白没有活])
+(;B[sd];W[rb]C[白活]))

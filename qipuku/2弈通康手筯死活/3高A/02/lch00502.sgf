@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[lf][nf][ne][me]AW[mh][nd][md][ld][mc][oe][ke][kg][og][mg]C[黑先]
+AP[MultiGo:4.4.4]SZ[19]AB[le]GN[围棋基础训练]US[阿浩]SO[《李昌镐围棋基础训练》初级篇、提高篇]
+MULTIGOGM[1]
+
+(;B[mi]C[两边同形走中间];W[kf];B[of];W[pf];B[pe];W[od];B[pg];W[qf];B[ng];W[oh];B[nh]
+C[RIGHT])
+(;B[kf];W[jf]
+(;B[lg];W[kh];B[lh];W[li];B[ki];W[je];B[mi];W[lj];B[of];W[pf];B[pe];W[od];B[pg]
+;W[qf];B[ng];W[oh];B[nh];W[ni];B[mf];W[mh])
+(;B[je];W[kd];B[jg];W[if];B[lg];W[kh];B[lh];W[li];B[ki];W[jh];B[mi];W[lj];B[of]
+;W[pf];B[pe];W[od];B[pg];W[qf];B[ng];W[oh];B[nh];W[ni];B[mf];W[mh])))

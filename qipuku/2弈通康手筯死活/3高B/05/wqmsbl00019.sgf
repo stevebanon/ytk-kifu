@@ -1,0 +1,5 @@
+(;CA[gb2312]AB[dp][eo][fo][io][jo][ko][hp][gp][hq][gr][ir][dm][cl]AW[cq][dr][fp]
+[fq][fr][gq][go][ho][fn][ip][jp][kp][lp][cm]C[黑先：
+下边的五个黑子，被白分离着，为了救出这五个黑子，只有吃住上方分离黑的三个白子，但黑甲断则被白乙冲而失败。怎样才能救黑脱险呢？须有妙手才能成功。]
+AP[MultiGo:4.4.4]AB[cp]MULTIGOGM[1]
+;B[hm];W[gn];B[fm];W[gm];B[gl];W[fl];B[en];W[em];B[hn]C[RIGHT黑1是妙手。白2接，黑3夹顶也是妙手。由此，白的四个子被困缚了。白4冲，则黑5，7"包打"后便成征吃。])

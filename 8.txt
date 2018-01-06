@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[pc][qg][qj][ld][lc][le][lf][qd][pd]AW[jc][je][kg][lg][oe][ng][mf]
+[md][nd][oc][jb]C[黑先]AP[MultiGo:4.4.4]SZ[19]AB[od]GN[围棋基础训练]US[阿浩]SO[《李昌镐围棋基础训练》初级篇、提高篇]
+MULTIGOGM[1]
+
+(;B[mb];W[nb];B[ob];W[nc];B[na]C[RIGHT])
+(;B[nb]C[看似好点，但现在白右边二路有子不成立];W[mb];B[mc];W[nc];B[ob];W[lb]))

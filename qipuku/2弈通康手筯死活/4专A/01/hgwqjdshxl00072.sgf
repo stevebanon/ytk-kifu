@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[eb][ec][de][ce][be][ae]AW[db][da][cc][bd][ad]AP[MultiGo:4.4.4]AB[dc]
+PB[Black]PW[White]HA[0]MULTIGOGM[1]
+
+(;B[cd]N[Ê§°Ü1];W[bb];B[ab];W[bc];B[ba];W[ca];B[ea];W[aa]C[RIGHT])
+(;B[ba]N[Ê§°Ü1];W[bb];B[ab];W[cd];B[cb];W[ca];B[ea])
+(;B[bb]N[Ê§°Ü2];W[cb];B[ba];W[ab];B[bc];W[cd];B[dd];W[ac])
+(;B[ab]N[Ê§°Ü3];W[ba];B[cd];W[bc]))

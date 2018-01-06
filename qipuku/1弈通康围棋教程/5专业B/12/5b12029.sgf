@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[rp][qp][pp][pr][ps][sp]AW[op][qo][so][ro][po][oo][oq][or][os]LB[ki:A]
+[mi:B][oi:C]C[黑棋已死选A，已活选B，有劫选C，否则补活黑棋]AP[MultiGo:4.4.4]SZ[19]
+AB[pq]MULTIGOGM[1]
+;B[mi];W[rr]
+(;B[rs];W[rq];B[sq];W[sr];B[qr]C[RIGHT])
+(;B[sr];W[qr];B[qs];W[rs];B[rq]C[RIGHT]))

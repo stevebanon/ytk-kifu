@@ -1,0 +1,16 @@
+(;CA[gb2312]AB[pd][pe][oc][nc][rb][qb]AW[lc][md][nd][oe][of][qg][pf][qe][qd][rd]
+[rc][mb]C[黑先]AP[MultiGo:4.4.4]SZ[19]AB[qc]GN[围棋基础训练]US[阿浩]SO[《李昌镐围棋基础训练》初级篇、提高篇]
+MULTIGOGM[1]
+
+(;B[pa];W[pc]
+(;B[od];W[ob];B[nb];W[na];B[pb]C[RIGHT])
+(;B[pb];W[nb]
+(;B[ob];W[od])
+(;B[od];W[ob]))
+(;B[nb];W[od];B[pb];W[sb];B[ra]C[也能活，但目数有点亏，不算正解]))
+(;B[nb];W[sb];B[pb];W[oa];B[na];W[od])
+(;B[pb];W[nb]
+(;B[ob];W[od])
+(;B[od];W[ob]))
+(;B[oa];W[nb];B[ob];W[sb];B[od];W[ra];B[pb];W[qa])
+(;B[sb];W[pa];B[pb];W[oa];B[ob];W[od];B[na];W[nb];B[qa];W[oa]))

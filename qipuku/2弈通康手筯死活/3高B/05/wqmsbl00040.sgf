@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[ar][cq][dq][eq][fq][er][co][cn][cm][cl][bl][gp][hp][iq][jq][kp][kr]
+[lr]AW[aq][bq][bp][bo][bn][bm][bs][cr][dr][gq][hq][fr][gr][hs][ir][jr][ks]C[黑先：
+黑能吃到左右二块白棋中之一。如粗枝大叶走出坏着则不能吃到。
+]
+AP[MultiGo:4.4.4]AB[br]MULTIGOGM[1]
+;B[es];W[as];B[fs]LB[js:甲][cs:乙][ds:丙]C[RIGHT黑1是正着。白2则黑3吃下边的白。黑1时，白甲活边，黑乙取角。黑1如两样位扳打是大错着。因白有乙位妙手，让黑2位提，则白◎位吃黑三子，两方面的白都活了。])

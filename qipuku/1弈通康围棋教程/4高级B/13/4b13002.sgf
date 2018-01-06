@@ -1,0 +1,4 @@
+(;CA[gb2312]AB[qc][rc][oc][ob][qb]AW[ra][na][nb][nc][nd][od][pd][qd][rd][sd]LB[qa:A]
+[pa:B][oa:C]C[A，B，C中哪一位置是黑棋的最佳下法?角上黑棋结果会如何？]N[李昌镐官子最佳次序36型_02.sgf]
+AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[1]
+;B[pa];W[sc];B[sb];W[oa];B[qa]C[RIGHT])

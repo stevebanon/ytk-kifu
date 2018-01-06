@@ -1,0 +1,4 @@
+(;CA[gb2312]AB[qf][pd][ob][qg][nc][pc][of]AW[qb][qc][pb][qd][re][rf][pe]TR[nc][qf]
+[qb][re][qd][pb][qg][pc][pd][qc][qe][ob][pe][of][rf]LB[ki:A][oi:C][mi:B]C[通过对三角形棋子的比较，认为黑好的选A，差不多选B，白好选C]
+AP[MultiGo:4.4.4]SZ[19]AB[qe]MULTIGOGM[1]
+;B[ki]C[RIGHT比较定式黑多吃一个白，当然黑好])

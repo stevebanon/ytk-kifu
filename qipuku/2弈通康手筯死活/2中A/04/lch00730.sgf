@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[cp][dp][dq][dr][br][ap]AW[cs][ds][er][eq][ep][en][do][co][bo][ao]
+[aq]C[ºÚÏÈ]AP[MultiGo:4.4.4]SZ[19]AB[bp]GN[Î§Æå»ù´¡ÑµÁ·]US[°¢ºÆ]SO[¡¶Àî²ý¸äÎ§Æå»ù´¡ÑµÁ·¡·³õ¼¶Æª¡¢Ìá¸ßÆª]
+MULTIGOGM[1]
+
+(;B[bs];W[cr];B[ar]C[RIGHT])
+(;B[cr];W[bs];B[ar];W[bq])
+(;B[ar];W[bs]
+(;B[bq];W[cr])
+(;B[cr];W[bq])))

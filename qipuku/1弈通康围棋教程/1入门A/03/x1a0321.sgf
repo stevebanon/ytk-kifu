@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[qd]C[黑下一手棋，做出一个虎口]AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[1]
+
+(;B[od];W[pd];B[pe]C[RIGHT])
+(;B[qb];W[qc];B[rc]C[RIGHT])
+(;B[pe];W[pd];B[od]C[RIGHT])
+(;B[rc];W[qc];B[qb]C[RIGHT]))

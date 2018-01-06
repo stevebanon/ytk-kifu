@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[br][cr][cq][bq][bo][bp][bn][dp][ep][eq][dn][en][fo][go][hq]AW[bs]
+[cs][dr][dq][er][fq][fp][cp][co][cn][bm][cl][dl][iq][hr]C[黑先，如何进一步攻击白棋]
+AP[MultiGo:4.4.4]AB[ar]MULTIGOGM[1]
+
+(;B[gr];W[gq]C[断打，你怎么办]
+(;B[fr];W[hp];B[es]C[RIGHT恭喜答对])
+(;B[hp];W[fr]C[失败，重来吧]))
+(;B[hp];W[gr]C[失败，重来吧]))

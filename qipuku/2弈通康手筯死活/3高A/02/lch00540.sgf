@@ -1,0 +1,12 @@
+(;CA[gb2312]AB[rd][pb][ob][qe][qd]AW[mc][nb][oc][pc][pe][pf][qf][rf][re][oa]C[ºÚÏÈ]
+AP[MultiGo:4.4.4]SZ[19]AB[qc]GN[Î§Æå»ù´¡ÑµÁ·]US[°¢ºÆ]SO[¡¶Àî²ý¸äÎ§Æå»ù´¡ÑµÁ·¡·³õ¼¶Æª¡¢Ìá¸ßÆª]
+MULTIGOGM[1]
+
+(;B[rb];W[pa]
+(;B[qa];W[qb];B[pb]C[RIGHT])
+(;B[qb];W[sc];B[sd];W[sb];B[qa];W[sa]C[ÅÌ½ÇÇúËÄ]))
+(;B[qb];W[rb]
+(;B[ra];W[sb]
+(;B[pa];W[sd])
+(;B[sc];W[pa]))
+(;B[sb];W[ra];B[sd];W[pa];B[qa];W[rc];B[na];W[oa])))

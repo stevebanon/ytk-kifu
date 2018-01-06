@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[mc][nc][lc][pg][oe][of][ne]AW[jc][kd][ld][me][mf][nf][oh][og][qf]
+[pb][pd][mb]C[黑先]AP[MultiGo:4.4.4]SZ[19]AB[md]GN[围棋基础训练]US[阿浩]SO[《李昌镐围棋基础训练》初级篇、提高篇]
+MULTIGOGM[1]
+
+(;B[qe]C[基本手筋，只有这样才能把自己的棋下好，让对方的缺点充分暴露];W[pe];B[pf]
+;W[re];B[qg];W[rf];B[pi];W[ph];B[qh];W[qi];B[qj];W[ri];B[rj]C[RIGHT])
+(;B[pf];W[qe];B[ph];W[pi];B[qi];W[qj]C[黑出头不畅，危险])
+(;B[qg]
+(;W[pf];B[pe];W[qe];B[qd];W[rd];B[qc];W[rc];B[pc];W[qb];B[od];W[ob];B[oc];W[rg]
+C[黑活了也亏])
+(;W[qe];B[pf];W[qi])))

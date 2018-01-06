@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[db][da][dd][de][cf][bg][cg]AW[bc][cb][cd][ce][bf][af]AP[MultiGo:4.4.4]
+AB[dc]PB[Black]PW[White]HA[0]MULTIGOGM[1]
+
+(;B[cc]N[正解];W[ba];B[bd];W[be];B[ad];W[ac];B[bb];W[ab];B[ca]C[RIGHT])
+(;B[bb]N[变化];W[ba];B[cc];W[ab];B[ca])
+(;B[ba]N[失败1];W[ad];B[be];W[bb];B[ca];W[ab]))

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qe][pe][pd][ne][oc][nb][mc][rb][sc][sd]AW[pc][rc][qc][qd][qi][pf]
+[qf][rf][re][pb]C[黑先]AP[MultiGo:4.4.4]SZ[19]AB[rd]GN[围棋基础训练]US[阿浩]SO[《李昌镐围棋基础训练》初级篇、提高篇]
+MULTIGOGM[1]
+
+(;B[sb]C[好棋，不让白棋仍扑的机会];W[ra]
+(;B[qa];W[qb];B[ob];W[pa];B[oa]C[RIGHT])
+(;B[ob];W[qb];B[pa]C[RIGHT])
+(;B[qb];W[qa];B[ob]C[RIGHT]))
+(;B[ob];W[sb]C[扑可以让黑少一气];B[sa];W[se];B[sb];W[qb]C[失败]))

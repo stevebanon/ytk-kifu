@@ -1,0 +1,5 @@
+(;CA[gb2312]AB[qc][qd]AW[jd][lc][jh][pj][jj][mj][pd][qf][pc][qe][ob]LB[rb:A][qa:B]
+C[黑棋到白棋家捣乱，下一步你选A还是B]AP[MultiGo:4.4.4]SZ[19]AB[pb]MULTIGOGM[1]
+
+(;B[rb]C[RIGHT有做劫的机会])
+(;B[qa];W[rb]C[黑没机会]))

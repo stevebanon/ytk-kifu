@@ -1,0 +1,4 @@
+(;CA[gb2312]AB[qe][qf][pd][ob][qg][nc][rg]AW[qc][pb][qd][re][rf][qb][sd]TR[qe][ob]
+[rf][qf][re][qc][qb][qd][pb][qg][pc][pd][sd][rg][nc]LB[mi:B][ki:A][oi:C]C[通过对三角形棋子的比较，认为黑好的选A，差不多选B，白好选C]
+AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[1]
+;B[ki]C[RIGHT黑比定式多一个二线，而白多一个一线相比还是黑好])

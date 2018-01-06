@@ -1,0 +1,4 @@
+(;CA[gb2312]AB[cp][cq][cn][ep][eq][gp][gq][hq][fo][fn]AW[fp][fq][fr][do][dm][em]
+[fm][gm][gn][go][ip][jq][ir]C[黑先：这个形是右边的黑三子怎样才能向左边渡过的问题。]
+AP[MultiGo:4.4.4]AB[co]MULTIGOGM[1]
+;B[fs];W[er];B[dr];W[eo];B[gr];W[en];B[es]C[RIGHT由于黑1的碰是妙手，白只能走2，4位逃，黑3、5、7便得渡，而且还叫吃着白的四个子。黑1如走2位，则白在1位下立，而右边的黑子便被吃。])

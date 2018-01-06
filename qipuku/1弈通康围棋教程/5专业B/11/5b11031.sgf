@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[qr][lp][pq][qq][jr][oq][mp][kq][nq]AW[nr][or][pr][kr][lr][mq][lq]
+LB[ki:A][mi:B][oi:C]C[先选黑先的结果，再用最佳方法杀黑。
+
+A：死，B：劫，C：万年劫，缓气劫等特殊的劫]
+AP[MultiGo:4.4.4]SZ[19]AB[jq]MULTIGOGM[1]
+;B[ki];W[jj];B[ms];W[ps]
+(;B[ns]C[RIGHT])
+(;B[ks]C[RIGHT])
+(;B[js]C[RIGHT]))

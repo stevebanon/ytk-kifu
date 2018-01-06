@@ -1,0 +1,8 @@
+(;CA[gb2312]AB[md][nc][qe][re][qi][ob][pd][od]AW[lc][mc][mb][nb][oc][pc][qd][rc]
+[ic]C[黑先]AP[MultiGo:4.4.4]SZ[19]AB[nd]GN[围棋基础训练]US[阿浩]SO[《李昌镐围棋基础训练》初级篇、提高篇]
+MULTIGOGM[1]
+
+(;B[rb];W[qc];B[sc];W[pb];B[rd]C[RIGHT])
+(;B[pb];W[qc];B[rb];W[qb];B[rd];W[sc]C[没走到什么东西])
+(;B[qb];W[qc];B[rb];W[pb];B[sc];W[sd];B[sb];W[rd]C[不行])
+(;B[rd];W[qc];B[sc];W[sb];B[sd];W[ra]C[普通想法，有收官的手段]))

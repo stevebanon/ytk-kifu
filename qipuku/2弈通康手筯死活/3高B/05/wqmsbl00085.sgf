@@ -1,0 +1,5 @@
+(;CA[gb2312]AB[pq][kq][jp][ip][hp][gq][fq][ep]AW[nq][lq][kr][go][gp][hq][iq][lo]
+C[黑先：
+下边被白分离着的四个黑子，怎样处理才好呢？简单考虑是不能有效果的，如能走好次序，便可得大利。]
+AP[MultiGo:4.4.4]AB[po]MULTIGOGM[1]
+;B[lp];W[mp];B[jr];W[jq];B[kp];W[lr];B[hr]LB[ir:甲][mq:乙]C[RIGHT黑1的挖是这个场合的妙手。到黑7吃住白三子，黑使安泰。黑1如走3位，经白4、黑5、白甲、黑1、白乙而错过了机会。])

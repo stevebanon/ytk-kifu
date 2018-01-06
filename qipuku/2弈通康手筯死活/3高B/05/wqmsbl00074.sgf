@@ -1,0 +1,4 @@
+(;CA[gb2312]AB[bq][bp][co][do][eo][fp][gp][hp][ip][iq][ir][is][dq]AW[cq][cp][dp]
+[ep][eq][fq][gq][hq][hr][hs]C[黑先：这个形是黑怎样走才能无条件杀白的问题。这个问题比较难些，须好好考虑。]
+AP[MultiGo:4.4.4]AB[br]MULTIGOGM[1]
+;B[dr];W[cr];B[cs];W[ds];B[es];W[fs];B[gs]LB[er:甲][fr:乙][gr:丙]C[RIGHT从黑1到白6双方必然。黑7绝妙，白无条件死了。如白甲打，则黑乙提，因有"打二还一"，白不入气。黑7如改在乙打，则白丙成劫。])

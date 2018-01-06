@@ -1,0 +1,7 @@
+(;CA[gb2312]AB[do][eo][eq][er][fr][fn][iq][cp]AW[dq][dr][ep][fp][fq][ko][kq][co]
+[bo][dn][en][gm][el][cl]LB[gr:甲][fo:乙]C[黑先：
+把分裂着的黑子连络起来是要花费一番苦心的。黑甲则白乙断，黑如走乙 ，则白走甲，黑不行。怎么走最好？]
+AP[MultiGo:4.4.4]AB[dp]MULTIGOGM[1]
+;B[gp];W[gq];B[gr];W[hp];B[hq];W[go];B[fo];W[gp];B[bq]C[RIGHT
+
+黑1的碰绝妙。因中间的白三子图逃而定2、4，则被黑3、5打，至黑9，不但显示了黑1“一子两用”把两方的缺陷都补好了的效果，而且使白成为愚形。])

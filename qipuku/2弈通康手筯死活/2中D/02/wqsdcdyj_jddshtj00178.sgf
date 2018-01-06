@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[qb][pc][pb][pd][pe][pf][qg][qh][rh][sh]AW[rb][qc][re][qe][qf][rg]
+[sg][sf]C[黑先]AP[MultiGo:4.4.4]AB[ra]MULTIGOGM[1]
+
+(;B[rd];W[qd];B[rc];W[sb];B[sd]C[RIGHT正解图（黑先白死）])
+(;B[sd];W[rd];B[sb];W[rc]C[失败图一])
+(;B[qd];W[rd];B[rc];W[sd]C[失败图二]))

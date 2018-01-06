@@ -1,0 +1,5 @@
+(;CA[gb2312]AB[dr][eq][cq][bq][bo][co][dn][em][fm][gm][hn][io][jo][jq][iq][gq][hr]
+[kr]AW[br][cr][ir][jr][dq][dp][ep][fp][gp][hp][hq][en][fn][gn]C[黑先：
+这个形，黑棋怎样补一手，就能净杀白棋。]
+AP[MultiGo:4.4.4]AB[ar]MULTIGOGM[1]
+;B[fr];W[fq];B[fs];W[gr];B[hs];W[er];B[ds]C[RIGHT黑1是要点。白2挤时，黑3是妙手。以下走至黑7，黑成三个"金鸡独立"而白死。黑1如走2位，则白4位打而白活。又如黑1走3位，白走1位而黑失败。])

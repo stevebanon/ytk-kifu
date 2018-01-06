@@ -1,0 +1,4 @@
+(;CA[gb2312]AB[qe][qf][qg][ob][nc][pf][pd]AW[qc][qd][re][rf][pb][qb][pe][oe]TR[pf]
+[oe]LB[oi:C][mi:B][ki:A]C[黑白刚做了三角形棋子的交换，请判断这两手棋黑好选A，差不多选B，白好选C]
+AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[1]
+;B[oi]C[RIGHT])

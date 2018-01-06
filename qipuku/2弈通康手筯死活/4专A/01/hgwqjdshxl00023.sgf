@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[cf][cg][ch][bh][ah][dd][ec][eb][da][ed][ce]AW[dc][db][bb][bd][be]
+[bf][bg]AP[StoneBase:SGFParser.2.8]SZ[19]GM[1]PB[Black]PW[White]HA[0]MULTIGOGM[1]
+
+(;B[cd]N[正解];W[cc]N[挡];B[bc];W[ac]N[提];B[ba]C[杀着];W[ag]C[白棋做眼];B[ae]LB[ab:A]
+[cb:B]C[RIGHT
+
+黑A、B点见合，劫杀。])
+(;B[ba]C[错误]N[失败];W[cb];B[cd];W[ab];B[ca];W[ag];B[cc];W[bc]C[V
+
+白净活]))

@@ -1,0 +1,4 @@
+(;CA[gb2312]AB[lc][nc][pd][pe][le][ld]AW[kf][lg][ng][mb][ob][pb][qb][qf][qe][pg]
+[qg][nb][ke][kg][qd][mg][og][lb][kb][qc][kc][kd][nd][ne]LB[ki:A][mi:B]C[白棋始终不下，黑棋能在白棋里面做成杀不死棋的选A，否则选B]
+AP[MultiGo:4.4.4]SZ[19]AB[oe]MULTIGOGM[1]
+;B[mi]C[RIGHT])

@@ -1,0 +1,10 @@
+(;CA[gb2312]AB[qf][pf][pe][pd][pc][qb][rb][sb][nf][og]AW[qg][pg][lc][oi][qi][rg]
+[sf][nc][ob][pb][rc][qc][qd][re]C[黑先]AP[MultiGo:4.4.4]SZ[19]AB[rf]GN[围棋基础训练]
+US[阿浩]SO[《李昌镐围棋基础训练》初级篇、提高篇]MULTIGOGM[1]
+
+(;B[qe]C[妙手，让白先出招];W[se];B[rd];W[sd];B[sc]C[RIGHT])
+(;B[sc];W[se]
+(;B[rd];W[qe])
+(;B[qe];W[rd]))
+(;B[sd];W[se])
+(;B[se];W[sd];B[sc];W[qe]))

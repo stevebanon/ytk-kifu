@@ -1,0 +1,11 @@
+(;CA[gb2312]AB[jc][qc][qd][qf]AW[oc][oe][me][je][ic][id]C[黑先，这种形很复杂，多化点时间，变化很多，尽力理解相互之间的关系]
+AP[MultiGo:4.4.4]SZ[19]AB[mc]GN[围棋基础训练]US[阿浩]SO[《李昌镐围棋基础训练》初级篇、提高篇]
+MULTIGOGM[1]
+;B[ob];W[pb]
+(;B[od];W[nc]
+(;B[nd];W[md];B[nb];W[pc];B[pd];W[mb];B[lc];W[oa]
+(;B[qb];W[na];B[lb]C[RIGHT])
+(;B[lb];W[na];B[qb]C[RIGHT]))
+(;B[nb];W[pc];B[nd];W[pd];B[md];W[pe];B[le]C[RIGHT]))
+(;B[pc];W[nb];B[od];W[nc];B[nd];W[md];B[mb];W[oa];B[ma];W[ne];B[pd];W[na];B[qb]
+;W[lc]C[不行]))

@@ -1,0 +1,8 @@
+(;PB[Black]PW[White]HA[0]AB[dd][dc][db][da][de][df][cf][ch][bg]
+AW[cc][cb][bd][ce][bf](;B[bb]N[正解]	;W[ba]	;B[ab]	;W[ac]	;B[ae]	;W[af]	;B[be]	;W[ad]	;B[be]
+;W[cd]	;B[ca])
+(;B[bb]N[变化]	;W[ba]	;B[ab]	;W[ae]	;B[ac])
+(;B[cd]N[失败1]	;W[bb]	;B[ab]	;W[ac]	;B[ba]	;W[be])
+(;B[af]N[失败2]	;W[ac]	;B[bb]	;W[ba]	;B[ab]	;W[ae]	;B[cd]	;W[ag]
+;B[be])
+)

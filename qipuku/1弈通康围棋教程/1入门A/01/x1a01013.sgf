@@ -1,0 +1,4 @@
+(;CA[gb2312]LB[mi:B]C[手离开棋子后可以再改变棋子的位置吗？
+A：可以  B：不可以 ]
+AP[MultiGo:4.4.4]SZ[19]LB[ki:A]MULTIGOGM[1]
+;B[mi]C[RIGHT])

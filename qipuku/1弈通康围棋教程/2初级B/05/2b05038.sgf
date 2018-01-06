@@ -1,0 +1,5 @@
+(;CA[gb2312]AB[pc][qe][qf][pd][ob][qg][oa][pa]AW[pb][qd][re][rf][qa][qb][qc]TR[pc]
+[pd][nc][ob][qf][qg][rf][re][qc][qb][qd][oa][pa][qa][pb][qe]LB[oi:C][mi:B][ki:A]
+C[通过对三角形棋子的比较，认为黑好的选A，差不多选B，白好选C]AP[MultiGo:4.4.4]SZ[19]
+AB[nc]MULTIGOGM[1]
+;B[oi]C[RIGHT黑比定式在一线多下了一个不好])

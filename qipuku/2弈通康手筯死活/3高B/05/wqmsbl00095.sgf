@@ -1,0 +1,5 @@
+(;CA[gb2312]AB[cp][dp][dq][cr][fq][hq]AW[br][bq][cq][bo][cn][en]LB[ap:甲][dr:乙]
+C[黑先：
+白有甲渡和乙吃住黑的一子而活的手段。但黑有巧妙着法，能够吃住角上白的三子。]
+AP[MultiGo:4.4.4]AB[bp]MULTIGOGM[1]
+;B[ar];W[ap];B[bs]LB[dr:甲][er:丁][cs:丙][aq:乙]C[RIGHT黑1的夹是"二之一"的妙手。白2渡，则黑3打而白接不归。白2如甲打，经黑乙、白丙、黑丁、白不能活。])

@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[ce][fe][he][hd][ic][hb][cg][cf][bg]AW[cc][ec][fc][gc][bf]AP[MultiGo:4.4.4]
+AB[ed]PB[Black]PW[White]HA[0]MULTIGOGM[1]
+
+(;B[db]N[正解1];W[dc];B[bc];W[bd];B[bb];W[cd];B[be];W[ad];B[ea];W[cb];B[da];W[ab]
+;B[ba]C[RIGHT])
+(;B[bd]N[正解2];W[bc];B[ab];W[db];B[ac];W[bb];B[ea];W[dd];B[cd];W[de];B[ef])
+(;B[db]N[失败1];W[dc];B[ea];W[gb];B[ga];W[fa];B[fb];W[cb];B[eb];W[bd];B[bb];W[ab]
+;B[ac];W[ba])
+(;B[bc]N[失败2];W[bb];B[bd];W[db];B[ab];W[ea];B[ba];W[ca]))

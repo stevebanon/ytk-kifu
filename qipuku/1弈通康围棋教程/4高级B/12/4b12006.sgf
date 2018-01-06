@@ -1,0 +1,9 @@
+(;CA[gb2312]AB[pa][pd][pe][ob][pb]AW[od][mb][oe][ma][oc][md][nc]TR[na]LB[ki:A][mi:B]
+[oi:C][qi:D][si:E]C[黑下三角形位置官子相当于后手
+A：小于1目
+B：1目
+C：1到2目之间
+D：2目
+E：大于2目]
+AP[MultiGo:4.4.4]SZ[19]AB[pc]MULTIGOGM[1]
+;B[ki]C[RIGHT])

@@ -1,0 +1,4 @@
+(;CA[gb2312]AB[qf][qe][pd][pc][ob][nc][na]AW[oa][pb][qb][qc][qd][re][rf][pa]TR[oa]
+[na][pa]LB[oi:C][mi:B][ki:A]C[黑白刚做了三角形棋子的交换，请判断这两手棋黑好选A，差不多选B，白好选C]
+AP[MultiGo:4.4.4]SZ[19]AB[qg]MULTIGOGM[1]
+;B[ki]C[RIGHT比较定式，白在一线多了一个])

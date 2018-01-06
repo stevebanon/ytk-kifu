@@ -1,0 +1,5 @@
+(;CA[gb2312]AB[pb][pc][pd][pe][pa][nf][jc][jf][of][mf][lf][kf][je][ja][le][mb][od]
+[rc][kd][sc][sb][qc][sa][ma][lb]AW[oe][qf][nd][sd][se][nc][nb][na][pf][rf][ne][lc]
+[kb][ka][kc][mc][qe][rd][ld][md]LB[lh:B][ph:D][nh:C][jh:A]C[A：黑已死 B：白已死 C：已双活 D：谁先动手谁有利（强吃弱，弱双活）]
+AP[MultiGo:4.4.4]SZ[19]AB[jb]MULTIGOGM[1]
+;B[ph]C[RIGHT黑：外1内5 白：外1内2，黑强算6气，白加公气3也是6])

@@ -1,0 +1,4 @@
+(;CA[gb2312]AB[pc][ob][nc][qe][qf][qg][pe]AW[oe][pb][qb][qc][qd][re][rf]TR[oe][pe]
+LB[ki:A][oi:C][mi:B]C[黑白刚做了三角形棋子的交换，请判断这两手棋黑好选A，差不多选B，白好选C]
+AP[MultiGo:4.4.4]SZ[19]AB[pd]MULTIGOGM[1]
+;B[mi]C[RIGHT定式后白点一个黑接一个都是正常下法，所以差不多])

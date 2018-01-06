@@ -1,0 +1,6 @@
+(;CA[gb2312]AB[oq][or][nr][mq][mp][lq][no]AW[pr][qq][rp][qo][qn][pm][on][nn][mo]
+[lo][ko][jr][kq][iq][jp]C[黑先  上级]AP[MultiGo:4.4.4]AB[rq]MULTIGOGM[1]
+
+(;B[pp]C[正解图];W[lr];B[rr];W[pq];B[ps];W[op];B[qr];W[qp];B[np]C[RIGHT])
+(;B[lr]C[失败图 ];W[np];B[pp];W[op];B[rr];W[qr];B[ps];W[qp];B[qs];W[sq])
+(;B[rr]C[失败图 ];W[pq];B[pp];W[op];B[lr];W[ms];B[oo];W[po];B[np];W[ls]))

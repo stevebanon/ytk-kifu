@@ -1,0 +1,5 @@
+(;CA[gb2312]AB[dp][dq][dr][bo][cn][en][fq][gn][ho][ip][iq][kq][ep]AW[bp][bq][br]
+[bs][cr][ds][er][eq][fp][gp][hq]CR[fq]C[黑先：
+一般的思考，白无论如何也是活的，但黑有非常的妙手可以巧取全体白棋。请试验之。]
+AP[MultiGo:4.4.4]AB[cq]MULTIGOGM[1]
+;B[is];W[hr];B[hs];W[gs];B[fs]LB[fr:甲][gr:乙][es:丙][cs:丁]C[RIGHT黑1绝妙。由于它白论如何变化也摆脱不掉覆灭的结果了。走至黑5止而白死。白2如走甲位，则黑走乙位。又白2走乙位，则黑甲、白丙、黑5、白丁、黑4。])
